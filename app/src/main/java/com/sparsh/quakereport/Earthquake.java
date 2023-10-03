@@ -79,7 +79,8 @@ public class Earthquake {
             location2 = mLocation;
         }
     }
-
+    
+// Sets color based on magnitude of the earthquake
     public int getMagnitudeColor(String Magnitude)
     {
      int  magnitudeColorResourceId ;
